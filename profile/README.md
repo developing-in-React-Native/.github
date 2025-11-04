@@ -1,8 +1,8 @@
+<img width="400" height="400" alt="ChatGPT Image 20 de out  de 2025, 21_33_27" src="https://github.com/user-attachments/assets/eca24de9-54e9-4454-b575-6c38d5f167d4" />
+
 # 🚀 Organização Android – Apps em React Native (Expo)
 
-![doc-android](https://github.com/user-attachments/assets/eca24de9-54e9-4454-b575-6c38d5f167d4)
-
-> **Escopo:** Esta organização no GitHub hospeda **apenas aplicativos Android** desenvolvidos em **React Native com Expo**.  
+> **Escopo:** Esta organização no GitHub hospeda **apenas aplicativos Android** desenvolvidos em **React Native com Expo**.
 > Padronizamos estrutura, automações, qualidade e publicação (Google Play) para acelerar entregas e manter consistência entre projetos.
 
 ---
